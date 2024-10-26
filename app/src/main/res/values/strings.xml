@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Constraint</string>
+
+    <string-array name="drinks">
+        <item>sok jabłkowy</item>
+        <item>herbata</item>
+        <item>piwo</item>
+        <item>wino białe</item>
+        <item>wino czerwone</item>
+    </string-array>
+</resources>
